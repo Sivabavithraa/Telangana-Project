@@ -2,7 +2,7 @@
 
 ## Title : Growth Analysis of Telangana
 
-Project objective:** 
+**Project objective:** 
 
    To analyze and Explore the Data sets of Telangana to find out the trends and patterns of Stamp Registration Revenue,Vechicle sales and Investment in the districts of Telangana and provide valuable insights to government.
 
